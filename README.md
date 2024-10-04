@@ -12,3 +12,7 @@
 
 - psycopg2-binary
   `pip install psycopg2-binary`
+
+## install required packages
+
+`pip install -r requirements.txt`
